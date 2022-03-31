@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/hiroshi-fujii-x">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiroshi-fujii-x&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiroshi-fujii-x&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=fujiihiroshi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fujiihiroshi&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/guilherme-hiroshi-fujii" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   
-  ![Snake animation](https://github.com/hiroshi-fujii-x/hiroshi-fujii-x/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/fujiihiroshi/hiroshi-fujii-x/blob/output/github-contribution-grid-snake.svg)
    
   
 </div>
