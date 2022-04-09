@@ -14,7 +14,7 @@
   <img align="center" alt="Hiro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Hiro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="HIro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://im2.ezgif.com/tmp/ezgif-2-8f91488fe0.gif">
+  <img align="right" alt="Hiro-gif" height="150" style="border-radius:50px;" src="https://im2.ezgif.com/tmp/ezgif-2-8f91488fe0.gif">
 </div>
   
   ##
@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/guilherme-hiroshi-fujii" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   
-  ![Snake animation](https://github.com/fujiihiroshi/hiroshi-fujii-x/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/fujiihiroshi/fujiihiroshi/blob/output/github-contribution-grid-snake.svg)
    
   
 </div>
