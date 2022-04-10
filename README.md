@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on technical drawing;
 - 🌱 I’m currently learning javascript and english;
+- 
 
 <div align="center">
   <a href="https://github.com/hiroshi-fujii-x">
