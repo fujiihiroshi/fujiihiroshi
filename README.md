@@ -1,4 +1,4 @@
-<img height="400em" src="Pixel Jeff.gif">
+<img height="cover" src="Pixel Jeff.gif">
 
 <h2 align="center">&lt;h2&gt; Hello World!👋 &lt;/h2&gt;</h2>
 
