@@ -1,6 +1,6 @@
 <img height="400em" src="Pixel Jeff.gif">
 
-<h2 align="center">Hello World!👋</h2>
+<h2 align="center">&lt;h2&gt; Hello World!👋 &lt;/h2&gt;</h2>
 
 - 🔭 I’m currently working on technical designer;
 - 🌱 I’m currently learning for the entrance examination for university and web programming;
