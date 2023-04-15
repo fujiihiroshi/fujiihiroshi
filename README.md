@@ -9,6 +9,7 @@
 - 😄 Pronouns: I do not really care;
 - ⚡ Fun fact: I'm very sluggish...
 - 🦜 I can talk in English and Japanese;
+- 🤧 My hobbies: Read, Write, Study and be better;
 - 📜 Actually I'm graduated in Technical Mechanical.
 
 ### 🧠 Learning...
@@ -19,14 +20,6 @@
 </p>
 
 #
-
-<!--
-### 📮 How to reach me?
-<p>
-  <a href="mailto:guilhermefujii643@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.instagram.com/the_hiro.x/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</p>
--->
 
 ### My Status 🌃
 
