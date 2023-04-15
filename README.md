@@ -20,4 +20,6 @@
 
 ### 📮 How to reach me?
 
+![Fujiihiroshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fujiihiroshi&show_icons=true&theme=radical)
+
 -->
