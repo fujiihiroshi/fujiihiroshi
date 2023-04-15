@@ -8,7 +8,7 @@
 - 💬 Ask me about anything, if I don't know the response I would to find the same;
 - 😄 Pronouns: I do not really care;
 - ⚡ Fun fact: I'm very sluggish...
-- 🦜 I can talk in English and Japanese;
+- 🦜 I can talk in Portuguese, English and Japanese;
 - 🤧 My hobbies: Read, Write, Study and be better;
 - 📜 Actually I'm graduated in Technical Mechanical.
 
