@@ -2,7 +2,7 @@
 
 <h2 align="center">&lt;h2&gt; Hello World!👋 &lt;/h2&gt;</h2>
 
-- 🔭 I’m currently working on technical designer;
+- 🔭 My dream is to become a robot engineer;
 - 🌱 I’m currently learning for the entrance examination for university and web programming;
 - 👯 I’m looking to collaborate on global domination;
 - 💬 Ask me about anything, if I don't know the response I would to find the same;
@@ -11,6 +11,7 @@
 - 🦜 I can talk in Portuguese, English and Japanese;
 - 🤧 My hobbies: Read, Write, Study and be better;
 - 📜 Actually I'm graduated in Technical Mechanical.
+- 🧑‍💼 Last but not least, I currently work as a mechanical technical designer in a metallurgical company.
 
 ### 🧠 Learning...
 <p>
