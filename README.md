@@ -1,9 +1,3 @@
-<img height="cover" src="Pixel Jeff.gif">
-
-<h2 align="center">&lt;h2&gt; Hello World!👋 &lt;/h2&gt;</h2>
-
-- 🔭 
-
 ### 🧠 Learning...
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
